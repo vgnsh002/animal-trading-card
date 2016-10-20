@@ -1,0 +1,57 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.main {
+  width: 320px;
+  border: solid #ccc 1px;
+  box-shadow: 2px 4px 2px #90A4AE;
+  border-radius: 10px;
+  background-color: #009688;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.subdiv {
+  width: 300px;
+  border: solid #ccc 1px;
+  margin: 10px;
+}
+
+.fact {
+  font-style: italic;
+
+  }
+
+h3 {
+  padding: 0 20px;
+  color: white;
+  border: solid #009688 1px;
+  margin: 15px;
+}
+
+p {
+  color: white;
+  padding: 0 10px;
+  margin: 15px;
+
+}
+
+ul {
+  list-style: none;
+  color: white;
+  padding: 0 10px;
+  border: solid #009688 2px;
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 2px #004D40;
+}
+
+span {
+  font-style: normal;
+  font-weight: bold;
+}
